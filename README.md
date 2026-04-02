@@ -1,4 +1,4 @@
-# cpp-leetcode-problems
+# C++ LeetCode Problems
 
 Answers to LeetCode problems, completed in C++.
 
